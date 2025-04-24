@@ -15,4 +15,4 @@ QCC generates a 3D matrix of 256 chemical-like identifiers, rotates it based on 
 ## 🛠 Usage
 
 ```bash
-python quantumchemicalciper.py
+python Quantum-Chemical-Cipher.py
